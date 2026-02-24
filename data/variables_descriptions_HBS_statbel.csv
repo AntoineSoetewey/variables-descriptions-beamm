@@ -1,0 +1,105 @@
+﻿Variable,Description
+dag_p_hsn,Age at the time of interview
+dctcd_h_hsn,Number of children in household (<18)
+dctcd21_h_hsn,Number of children in household (<21)
+dedhi_p_hso,Highest education level (achieved)
+dgn_p_hsc,Gender
+dhhsi_h_hsn,Household size
+dhheu_h_hsn,Household consumption units (OECD - Modified scale)
+dhm_p_hsc,Relationship to reference person in the household
+dms_p_hsc,Marital status
+dshrf_p_hsc,Person of reference in the household
+drg_h_hsc,Region
+dhosn_h_hsc,Situation with respect to the occupied dwelling
+dhoty_h_hsc,Type of dwelling
+dwt_h_hsn,Household weights (calibrated)
+lcthw_p_hsc,Full-time / Part-time
+lct_p_hsc,Type of contract - Permanency of the job
+les_p_hsc,Current activity status of household member
+lse_p_hsc,Status in employment household member
+xad_hm_hsm,"Monthly expenditure on addictive goods (alcoholic beverages, tobacco and narcotics)"
+xadbe_hm_hsm,"Monthly expenditure on lager beer, other alcoholic beer & beer-based drinks "
+xadbe_hm_hsn,"Monthly expenditure on lager beer, other alcoholic beer & beer-based drinks (quantity)"
+xadcg_hm_hsm,Monthly expenditure on cigars 
+xadci_hm_hsm,Monthly expenditure on cigarettes 
+xadna_hm_hsm,Monthly expenditure on narcotics 
+xadnb_hm_hsm,Monthly expenditure on low and non-alcoholic beer 
+xadnb_hm_hsn,Monthly expenditure on low and non-alcoholic beer (quantity)
+xadsp_hm_hsm,Monthly expenditure on spirits 
+xadsp_hm_hsn,Monthly expenditure on spirits (quantity)
+xadtp_hm_hsm,Monthly expenditure on other tobacco products 
+xadtp_hm_hsn,Monthly expenditure on other tobacco products  (quantity)
+xadwi_hm_hsm,Monthly expenditure on wine 
+xadwi_hm_hsn,Monthly expenditure on wine (quantity)
+xcl_hm_hsm,Monthly expenditure on clothing and footwear
+xclrp_hm_hsm,Monthly expenditure on repair and hire of clothing + repair and hire of footwear 
+xrepubn,Monthly expenditure on communication
+xed_hm_hsm,Monthly expenditure on education
+xhl_hm_hsm,Monthly expenditure on health
+xhlpr_hm_hsm,"Monthly expenditure on medical products, appliances and equipment "
+xhlse_hm_hsm,Monthly expenditure on out-patient services + hospital services 
+xho_hm_hsm,"Monthly expenditure on housing, water, electricity, gas and other fuels"
+xhoab_hm_hsm,"Monthly expenditure abroad on housing, water, electricity, gas and other fuels"
+xhoen_hm_hsm,"Monthly expenditure on electricity, gas and other fuels - energy (housing)"
+xhoenel_hm_hsm,Monthly expenditure on electricity (housing)
+xhoenga_hm_hsm,Monthly expenditure on natural gas and town gas 
+xhoengs_hm_hsm,Monthly expenditure on gas (housing)
+xhoenhe_hm_hsm,Monthly expenditure on heat energy (housing)
+xhoenlf_hm_hsm,Monthly expenditure on liquid fuels (housing)
+xhoenlh_hm_hsm,"Monthly expenditure on liquefied hydrocarbons, butane, propane, etc. "
+xhoensf_hm_hsm,Monthly expenditure on solid fuels (housing)
+xhomaeq_hm_hsm,"Monthly expenditure on Furnishings, household equipment and routine maintenance of the house"
+xhomatx_hm_hsm,Monthly expenditure on repair of household textiles 
+xhomr_hm_hsm,Monthly expenditure on maintenance and repair of the dwelling + miscellaneous services relating to the dwelling 
+xhort_hm_hsm,Monthly expenditure on actual rentals for housing + imputed rentals for housing 
+xhows_hm_hsm,Monthly expenditure on water supply (housing)
+xnu_hm_hsm,Monthly expenditure on nutrition (food and non alcoholic beverages)
+xnuco_hm_hsm,Monthly expenditure on coffee 
+xnuco_hm_hsn,Monthly expenditure on coffee (quantity)
+xnumg_hm_hsm,Monthly expenditure on margarine and other vegetable fats 
+xnusd_hm_hsm,Monthly expenditure on soft drinks 
+xnusd_hm_hsn,Monthly expenditure on soft drinks (quantity)
+xotpr_hm_hsm,Monthly expenditure on miscellaneous goods and services other than funeral services and social protection & insurance & financial services NEC & other services NEC  
+xot_hm_hsm,Monthly expenditure on miscellaneous goods and services
+xotfs_hm_hsm,Monthly expenditure on funeral services 
+xotip_hm_hsm,Monthly expenditure on social protection & insurance & financial services NEC & other services NEC 
+xre_hm_hsm,Monthly expenditure on recreation and culture
+xrepubn_hm_hsm,Monthly expenditure on books & newspapers and periodicals 
+xrepula_hm_hsm,"Monthly expenditure on recreational and sporting services & cinemas, theatres, concerts & museums, libraries, zoological gardens "
+xrhab_hm_hsm,Monthly expenditure abroad on restaurants and hotels
+xrhac_hm_hsm,Monthly expenditure on accomodation services 
+xrhca_hm_hsm,Monthly expenditure on catering services 
+xto_hm_hsm,Monthly total consumption expenditure
+xtr_hm_hsm,Monthly expenditure on transport
+xtrab_hm_hsm,Monthly expenditure on transport abroad
+xtrfudi_hm_hsm,Monthly expenditure on diesel 
+xtrfuot_hm_hsm,Monthly expenditure on other fuels for personal transport equipment + lubricants 
+xtrfupe_hm_hsm,Monthly expenditure on petrol 
+xtrma_hm_hsm,Monthly expenditure on maintenance and repair of personal transport equipment 
+xtrop_hm_hsm,Monthly expenditure on operation of personal transport equipment
+xtroplf_hm_hsm,Monthly expenditure on operation of personal transport equipment -  fuels and lubricants
+xtrpu_hm_hsm,"Monthly expenditure on purchase of vehicles (cars, motor-cycles, bicycles, animal-drawn vehicles)"
+xtrpubc_hm_hsm,Monthly expenditure on purchase of bicycles
+xtrpuca_hm_hsm,Monthly expenditure on purchase of cars
+xtrpucanw_hm_hsm,Monthly expenditure on purchase of new cars 
+xtrpucash_hm_hsm,Monthly expenditure on purchase of second-hand cars 
+xtrseif_hm_hsm,Monthly expenditure on international flights  
+xtrseot_hm_hsm,Monthly expenditure on other purchased transport services  
+xtrts_hm_hsm,Monthly expenditure on transport services
+xtrtspaai_hm_hsm,Monthly expenditure on transport services - passenger transport by air
+xtrtspard_hm_hsm,Monthly expenditure on transport services - passenger transport by road
+xtrtsparl_hm_hsm,Monthly expenditure on transport services - passenger transport by railway
+yemnc_pm_hsm,Monthly income in kind from employment
+yhoooir_hm_hsm,Monthly imputed rent
+yto_pmn_hsm,Total income from all sources (net amount) corresponding to each single member of the family
+yto_hmn_hsm,Net income (total income from all sources including non monetary components minus income taxes)
+mnuca_h_hsn,Number of cars in the household
+xhoenel_hm_hsn,Monthly electricity consumption (housing) (quantity)
+xhoenga_hm_hsn,Monthly natural gas and town gas consumption (quantity)
+xhoenlf_hm_hsn,Monthly liquid fuel consumption (housing) (quantity)
+xtrfudi_hm_hsn,Monthly diesel consumption (quantity)
+xtrfupe_hm_hsn,Monthly petrol consumption (quantity)
+xadci_hm_hsn,Monthly cigarette consumption (quantity)
+xadtp_hm_hsn,Monthly consumption of other tobacco products (quantity)
+i_h_hsn,Household ID
+i_p_hsn,Personal ID

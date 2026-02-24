@@ -1,0 +1,43 @@
+---
+title: "Descriptive report of `r params$variable_name`"
+output: pdf_document
+params:
+  variable_name: NA
+  short_description: NA
+  long_description: NA
+  data: NA
+  url: NA
+---
+
+# Description
+
+**Short Description:** `r params$short_description`
+
+**Long Description:** `r params$long_description`
+
+[**Click here**](`r params$url`) for more information about this variable.
+
+# Descriptive statistics
+
+```{r, echo = FALSE}
+# packages
+library(pander)
+library(ggplot2)
+
+# Get the column name dynamically
+variable_data <- params$data[[params$variable_name]]
+
+# Summary Statistics
+pander(summary(variable_data))
+
+# Histogram (if numeric) or barplot (if categorical)
+if (is.numeric(variable_data)) {
+  ggplot(params$data, aes(x = variable_data)) +
+    geom_density(alpha = 0.2, fill = 'steelblue') +
+    theme_minimal()
+} else {
+  ggplot(params$data, aes(x = variable_data)) +
+    geom_bar(fill = 'steelblue') +
+    theme_minimal()
+}
+```

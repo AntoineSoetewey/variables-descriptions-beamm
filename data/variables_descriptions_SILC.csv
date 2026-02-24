@@ -1,0 +1,10 @@
+Variable,Short_description,Long_description
+HB010,Year of the survey,"Year in which the survey data collection, or most of the collection, is carried out."
+HB020,Country of residence,"The country in which the person/household has his/her usual residence, defined according to the Eurostat Standard Code list (SCL) GEO."
+HB030,Household ID,"Unique identifier assigned to each household, used as a key variable for analysis, sampling, and tracking."
+HB040,Day of household interview,"The day in which the data are collected, or the household is interviewed."
+HB050,Month of household interview,"The month in which the data are collected, or the household is interviewed."
+HB060,Year of household interview,The year in which the data is collected or the household is interviewed.
+HB070,Person responding to the household questionnaire,"The household respondent is the person from whom household-level information is obtained, chosen based on specific priorities."
+HB100,Number of minutes to complete the household questionnaire,The value of this variable refers to the count of minutes required to fill the household interview.
+HB110,Household type,"Household classification based on composition (e.g., single-person, couple, lone parent, multi-generational)."

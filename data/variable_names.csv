@@ -1,0 +1,16 @@
+﻿Variable,Description
+dgn_p_dmc,Gender
+dag_p_dmn,Age
+dcc_p_dmc,Nationality
+dms_p_dmc,Marital status
+dhctp_h_dmc,household type
+dhcpo_p_dmc,position in household
+dedhi_p_dmc,Highest education level
+lsc_p_dmc,Economic sector
+locwc_p_dmc,professional status
+locdp_p_dmc,detailed professional status
+lwp_p_dmc,work place
+ddr_p_dmc,statistical district of residence
+locna_p_dmc,NACE code (industry)
+locse_p_dmc,job market status
+leb_p_dmc,type of employment benefit
